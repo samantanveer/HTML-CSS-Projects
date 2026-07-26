@@ -38,6 +38,8 @@ A basic table layout project using HTML.
 🔗 Live Demo:
 https://samantanveer.github.io/HTML-CSS-Projects/Table%20Layout/index.html
 
+![Table Layout Screenshot](Table%20Layout/bears.webp)
+
 
 ## 🛠 Technologies Used
 
